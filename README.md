@@ -1,1 +1,1 @@
-##open with upyter NB
+##open with Jupyter NB
